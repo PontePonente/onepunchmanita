@@ -1,1 +1,15 @@
-Added new manga
+{
+  "title": "One Punch Man",
+  "description": "Saitama è palesemente “un uomo medio”: lo si evince dall’espressione ebete che ha sul volto, dalla sua calvizie, dal fisico che di impressionante ha ben poco. Eppure, questo “uomo medio” ha un problema al di fuori della norma: è un supereroe invincibile che non riesce a trovare avversari degni di sfida. Il problema è il micidiale pugno di Saitama, in grado di mettere a tappeto gli avversari al primo colpo. Riuscirà il nostro eroe, a trovare un nemico altrettanto potente e in grado di alimentare il fuoco della competizione?",
+  "artist": "Yusuke Murata",
+  "author": "ONE",
+  "cover": "https://m.media-amazon.com/images/I/81S1n-i-VBL._UF1000,1000_QL80_.jpg",
+  "chapters": {
+    "216": {
+      "title": "Siamo umani dopotutto",
+      "volume": "",
+      "groups": {},
+      "last_updated": "1755468000"
+    }
+  }
+}
